@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "student_exam_calculator/1.0.0": {
+        "runtime": {
+          "student_exam_calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "student_exam_calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
